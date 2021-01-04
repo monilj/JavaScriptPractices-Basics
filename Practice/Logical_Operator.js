@@ -7,3 +7,4 @@ const hasDriverLicenses = false;
 const hadVisions = false;
 console.log(hasDriverLicense && hadVision);
 console.log(hasDriverLicense || hadVision);
+
